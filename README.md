@@ -1,1 +1,5 @@
 # s21-team7-project
+# Members: Grayson Crodell, Jesse Gailbreath, Noah Norrod, Jacob Swindell
+#
+# Using augmentation methods on audio files to increase the size of
+# the dateset.
