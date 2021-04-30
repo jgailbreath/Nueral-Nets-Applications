@@ -2,7 +2,7 @@ s21-team7-project
 ### Members: Grayson Cordell, Jesse Gailbreath, Noah Norrod, Jacob Swindell
 # ***Using augmentation methods on audio files to increase the size of limited datasets.***
 
-  Small datasets can be plagued with the issue of producing models that present poor accuracy.  Sometimes there is just not enough information to get a network to learn without drastic overfitting.  So you have a small dataset and you are having issues training a network with decent accuracy? Well do we have a cure for you: data augmentation.
+  Small datasets can be plagued with the issue of producing models that present poor accuracy. Sometimes, there is just not enough information to get a network to learn without drastic overfitting. So, you have a small dataset and you are having issues training a network with decent accuracy? Well, do we have a cure for you: data augmentation.
 ### What's in the repository?
   Here you will find a some resources and an easy-to-follow (sort-of) demonstation on how data augmentation can improve your accuracy.
   1. A free dataset of audio samples recored as .wav files
