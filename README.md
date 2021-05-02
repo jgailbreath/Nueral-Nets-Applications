@@ -6,7 +6,7 @@ s21-team7-project
 ### What's in the repository?
   Here you will find a some resources and a step-by-step demonstation on how incorporating data augmentation can improve your accuracy.
   1. A free dataset of audio samples recored as .wav files (original source:  https://github.com/Jakobovski/free-spoken-digit-dataset)
-  2. Documentation on how you can perform augmenetations on the audio samples.  If you just want to get to the good stuff, feel free to use our augmented dataset located in the Data section.
+  2. Documentation on how you can perform augmentations on the audio samples.  If you just want to get to the good stuff, feel free to use our augmented dataset located in the Data section.
   3. The code to transform the .wav files into spectrogram images for use in a neural network.  Don't have the time?  We've got you!  A full set of images are housed in the Data section as well.
   4. The code to build a network designed to test out your handiwork (or ours if you just want to see the end result).
   5. You will also find some interesting links and documentation all related to this topic and our final paper sharing our results.
@@ -17,14 +17,14 @@ We also used Google Colab to execute our notebook.  Not familiar with this? No w
 
 Our datasets are fairly large so we utilized Google Drive for storage and access:  https://www.google.com/drive/
 
-We utilized Tensorflow and Keras to make the magic happen.  It does require a few Python dependencies (yep, you have to have Python already installed). Using the pip install command will make this fairly simple.  Enter the following steps in your command line to get going:
+We utilized Tensorflow and Keras to make the magic happen.  It does require a few Python dependencies (yep, you have to have Python already installed). Using the pip command will make this fairly simple.  Enter the following steps in your command line to get going:
 
-$ pip install --upgrade tensorflow
-$ pip install numpy scipy
-$ pip install scikit-learn
-$ pip install pillow
-$ pip install h5py
-$ pip install keras
+1.  $ pip install --upgrade tensorflow
+2.  $ pip install numpy scipy
+3.  $ pip install scikit-learn
+4.  $ pip install pillow
+5.  $ pip install h5py
+6.  $ pip install keras
 
 If you are having some issues here you can check out this resource for more details:  https://www.tensorflow.org/install/pip
 
