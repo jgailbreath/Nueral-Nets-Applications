@@ -6,7 +6,7 @@ s21-team7-project
 ### What's in the repository?
   Here you will find a some resources and a step-by-step demonstation on how incorporating data augmentation can improve your accuracy.
   1. A free dataset of audio samples recored as .wav files (original source:  https://github.com/Jakobovski/free-spoken-digit-dataset)
-  2. Documentation on how you can perform augmenetations on the audio samples.  If you just want to get to the good stuff, feel free to use our augmented dataset located in the Data section.
+  2. Documentation on how you can perform augmentations on the audio samples.  If you just want to get to the good stuff, feel free to use our augmented dataset located in the Data section.
   3. The code to transform the .wav files into spectrogram images for use in a neural network.  Don't have the time?  We've got you!  A full set of images are housed in the Data section as well.
   4. The code to build a network designed to test out your handiwork (or ours if you just want to see the end result).
   5. You will also find some interesting links and documentation all related to this topic and our final paper sharing our results.
