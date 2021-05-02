@@ -19,7 +19,7 @@ Our datasets are fairly large so we utilized Google Drive for storage and access
 
 We utilized Tensorflow and Keras to make the magic happen.  It does require a few Python dependencies (yep, you have to have Python already installed). Using the pip install command will make this fairly simple.  Enter the following steps in your command line to get going:
 
-''''
+''''cmd
 $ pip install --upgrade tensorflow
 $ pip install numpy scipy
 $ pip install scikit-learn
