@@ -17,7 +17,7 @@ We also used Google Colab to execute our notebook.  Not familiar with this? No w
 
 Our datasets are fairly large so we utilized Google Drive for storage and access:  https://www.google.com/drive/
 
-We utilized Tensorflow and Keras to make the magic happen.  It does require a few Python dependencies (yep, you have to have Python already installed). Using the pip install command will make this fairly simple.  Enter the following steps in your command line to get going:
+We utilized Tensorflow and Keras to make the magic happen.  It does require a few Python dependencies (yep, you have to have Python already installed). Using the pip command will make this fairly simple.  Enter the following steps in your command line to get going:
 
 1.  $ pip install --upgrade tensorflow
 2.  $ pip install numpy scipy
