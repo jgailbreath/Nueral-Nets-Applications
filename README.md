@@ -19,6 +19,8 @@ Our datasets are fairly large so we utilized Google Drive for storage and access
 
 To run our short demo, use this link to download the unseen_originals dataset to have locally:  https://drive.google.com/drive/folders/156QEK8JuWnFqsHnptc--pRW0lYam8fis?usp=sharing
 
+You will also need this file to use our pre-trained model:  https://drive.google.com/file/d/1LyMNrvk72AVxLWGEQP-B4DAm9wkoc93b/view?usp=sharing
+
 We utilized Tensorflow and Keras to make the magic happen.  It does require a few Python dependencies (yep, you have to have Python already installed). Using the pip command will make this fairly simple.  Enter the following steps in your command line to get going:
 
 1.  $ pip install --upgrade tensorflow
@@ -28,8 +30,8 @@ We utilized Tensorflow and Keras to make the magic happen.  It does require a fe
 5.  $ pip install h5py
 6.  $ pip install keras
 
-If you are having some issues here you can check out this resource for more details:  https://www.tensorflow.org/install/pip
+If you are having some issues, you can check out this resource for more details:  https://www.tensorflow.org/install/pip
 
-Okay, you should be good-to-go! Open the demo above to let the fun begin.
+Okay, you should be good-to-go! We have tow demo options depending on how much time you have.  Open the demo folder above to let the fun begin.
   
 
