@@ -50,8 +50,3 @@ Smaller dataset- https://drive.google.com/drive/folders/10ldZfWHfqrv20AnGLO9QQdp
 For Large Dataset Use Repo
 _____________________________________________________________________________
 
-If you are looking for a quick way to augment wav files checkout Graysons walkthrough
-https://colab.research.google.com/drive/1yl3aNLWl1qHWhtzitdaq91GRJhiqfMVD?usp=sharing
-
-Or his Ugly Auto-AudioAugmentor
-https://colab.research.google.com/drive/1TnD-WGQ8w4O03ktO-SQ-RWZOJpc949yK?usp=sharing
