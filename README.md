@@ -32,6 +32,6 @@ We utilized Tensorflow and Keras to make the magic happen.  It does require a fe
 
 If you are having some issues, you can check out this resource for more details:  https://www.tensorflow.org/install/pip
 
-Okay, you should be good-to-go! We have tow demo options depending on how much time you have.  Open the demo folder above to let the fun begin.
+Okay, you should be good-to-go! We have two demo options depending on how much time you have.  Open the demo folder above to let the fun begin.
   
 
