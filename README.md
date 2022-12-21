@@ -1,6 +1,6 @@
-s21-team7-project
-### Members: Grayson Cordell, Jesse Gailbreath, Noah Norrod, Jacob Swindell
+#MTSU-CSCI 4850 Semester Project 2021
 # ***Using augmentation methods on audio files to increase the size of limited datasets.***
+# Members: Grayson Cordell, Jesse Gailbreath, Noah Norrod, Jacob Swindell
 
   Small datasets can be plagued with the issue of producing models that present poor accuracy. Sometimes, there is just not enough information to get a network to learn without drastic overfitting. So, you have a small dataset and you are having issues training a network with decent accuracy? Well, do we have a cure for you: data augmentation.
 ### What's in the repository?
